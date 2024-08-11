@@ -1,7 +1,6 @@
-
 # Solutions to **Introduction to Algorithms** _Fourth Edition_
 
-![cover](./assets/cover.png)
+![cover](./docs//assets/cover.png)
 
 ## Getting Started
 
